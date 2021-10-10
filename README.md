@@ -13,7 +13,7 @@
 
 Find [GroupMeClientApi](https://www.nuget.org/packages/GroupMeClientApi/) on NuGet.
 
-Find [Documentation here](https://alexdillon.github.io/GroupMeClientApi/).
+Find [Documentation Here](https://alexdillon.github.io/GroupMeClientApi/).
 
 ### Sample
 ```csharp
